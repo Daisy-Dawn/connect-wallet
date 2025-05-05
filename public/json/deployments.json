@@ -1,0 +1,30 @@
+{
+  "usdmAddress": "0xf732EAa9f9bf2dcb45B108baF8D634679e97bCF0",
+  "wusdmAddress": "0xd8f630e26702e7b58fe6e405bD9FDe5c4ADf3d42",
+  "markets": [
+    {
+      "name": "aprMON",
+      "deployment": "0xE69a591b489622260fc51E94ECecaE1193Fb8180"
+    },
+    {
+      "name": "shMON",
+      "deployment": "0xC3EB41339C21DdDF7D76518c02535E1B1efce2D0"
+    },
+    {
+      "name": "gMON",
+      "deployment": "0x6D4E03a815EAcD6A1D6105CD5fe3875F8256476a"
+    },
+    {
+      "name": "sMON",
+      "deployment": "0xaDd3810d1A5215D5eDB6fdC25565F349E9e72FDe"
+    },
+    {
+      "name": "gsMON",
+      "deployment": "0xA500554196835b293472CcbD746aECBB58F6257c"
+    },
+    {
+      "name": "MON",
+      "deployment": "0x3194266cE97B75B55005C444560b63cA4bE13Dd0"
+    }
+  ]
+}

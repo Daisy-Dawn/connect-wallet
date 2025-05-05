@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+
+body {
+    background-color: #00000040;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.connect-wallet {
+    /* border: 1px solid #313131; */
+    box-shadow: 2px 4px 4px 0px #00000040 inset;
+    padding: 4px 13px;
+}
+
+.button-blur {
+    filter: blur(10px);
+    transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+.button-blur:hover {
+    filter: blur(0);
+    transform: scale(1);
+}
